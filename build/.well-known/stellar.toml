@@ -1,28 +1,30 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBOXJPBVKPHIFJPVLU22Q4QKJJYP4BO5KT4ZS3T4QR446K5CPIHE22DK"
+"GCQMPZ2TTXAFEIRWEH7SUISKRYYKUAWN27DHLRWA5SS4VMU4PW4HJXET"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Everest"
-ORG_URL="https://www.everest.org/"
-ORG_DESCRIPTION="Everest is a next generation blockchain and fintech platform designed to bring the mass-market of users and financial institutions into the decentralized finance (DeFi), crypto and fiat future. Everest is the world’s only device-free globally accessible, digital transaction protocol with built-in identity. Through the use of digital identities, electronic wallets, document management, and biometrics, users will be able to digitally verify their identity for public services and claim their social and economic rights."
-ORG_TWITTER="@EverestDotOrg"
-ORG_LOGO="https://i.ibb.co/TcCqdBy/Everest-Logo-1-Aqua-BIG-1.jpg"
-ORG_OFFICIAL_EMAIL="everestdotorg@gmail.com"
+ORG_NAME="Coin98"
+ORG_URL="https://www.coin98.com/"
+ORG_DESCRIPTION="Coin98 token is the #1 non-custodial, multi-chain wallet and DeFi gateway, designed to seamlessly connect users to the crypto world in a safe and secure manner.
+Coin98 offers you fast, convenient and secure procedures of storing, sending, receiving and trading on 12 popular blockchains, including Bitcoin, Ethereum (ETH & ERC20 tokens), Binance Smart Chain (BNB & BEP20 tokens), Solana (SOL & SPL tokens), Polkadot, Kusama, Avalanche, Huobi ECO Chain, Binance Chain (BNB & BEP2 tokens), Celo, TomoChain and Tron. We expect to support Thorchain, Polygon (Matic), Cosmos, Band, Fantom, Terra (Luna), Cardano, and Dfinity in the near future. Now, we are on LOBSTR in order to offer various advanced features that bring users “to the moon” experience"
+ORG_TWITTER="@coin98_finance"
+ORG_LOGO="https://i.ibb.co/bdxLQHK/logo.png"
+ORG_OFFICIAL_EMAIL="coin98finance@gmail.com"
 
 
 [[CURRENCIES]]
-code="ID"
-issuer="GBOXJPBVKPHIFJPVLU22Q4QKJJYP4BO5KT4ZS3T4QR446K5CPIHE22DK"
+code="C98"
+issuer="GCQMPZ2TTXAFEIRWEH7SUISKRYYKUAWN27DHLRWA5SS4VMU4PW4HJXET"
 anchor_asset="false"
-name="Everest"
-desc="Everest is a next generation blockchain and fintech platform designed to bring the mass-market of users and financial institutions into the decentralized finance (DeFi), crypto and fiat future. Everest is the world’s only device-free globally accessible, digital transaction protocol with built-in identity. Through the use of digital identities, electronic wallets, document management, and biometrics, users will be able to digitally verify their identity for public services and claim their social and economic rights."
-conditions="The Everest Foundation offers Stakers, eAgents and eTellers the cost-competitive, vertically integrated solution from Everest Networks for onboarding an account with integrated eKYC + compliance, and the ability to effectively resell Everest-supplied services, such as DeFi (savings, lending/borrowing, swapping, etc.), international routing, peer-to-merchant. Stakers, eAgents, and eTellers are incentivized through the ID token, a utility token that rewards virality and holding."
-image="https://i.ibb.co/TcCqdBy/Everest-Logo-1-Aqua-BIG-1.jpg"
+name="Coin98"
+desc="Coin98 token is the #1 non-custodial, multi-chain wallet and DeFi gateway, designed to seamlessly connect users to the crypto world in a safe and secure manner.
+Coin98 offers you fast, convenient and secure procedures of storing, sending, receiving and trading on 12 popular blockchains, including Bitcoin, Ethereum (ETH & ERC20 tokens), Binance Smart Chain (BNB & BEP20 tokens), Solana (SOL & SPL tokens), Polkadot, Kusama, Avalanche, Huobi ECO Chain, Binance Chain (BNB & BEP2 tokens), Celo, TomoChain and Tron. We expect to support Thorchain, Polygon (Matic), Cosmos, Band, Fantom, Terra (Luna), Cardano, and Dfinity in the near future. Now, we are on LOBSTR in order to offer various advanced features that bring users “to the moon” experience"
+conditions="There will only ever be 10 million C98 tokens in existence."
+image="https://i.ibb.co/bdxLQHK/logo.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#ID was issued using the open and inclusive Stellar blockchain network.
+#C98 was issued using the open and inclusive Stellar blockchain network.
